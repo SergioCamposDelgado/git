@@ -1,0 +1,8 @@
+body {background-color: #2b3137;}
+
+li h3 {color: #0d74e7;}
+li {color: #2fbb4f;}
+ol {list-style: upper-roman; margin-left: 25px;}
+img[id="logo"] {
+    float: right;
+}
