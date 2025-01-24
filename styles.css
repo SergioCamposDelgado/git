@@ -1,8 +1,18 @@
-body {background-color: #2b3137;}
-
-li h3 {color: #0d74e7;}
-li {color: #2fbb4f;}
-ol {list-style: upper-roman; margin-left: 25px;}
-img[id="logo"] {
-    float: right;
+body {background-color: #2b3137;
+    background-image: url("imagen_git_github.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
 }
+
+li h3 {color: #0d74e7;
+
+}
+li {color: #2fbb4f;}
+ol {list-style: upper-roman; 
+    margin-left: 25px;}
+
+h1 {color: #0d74e7;}
+span{color: #2fbb4f;}
+img[alt="logo ies camas"] {float: right;}
